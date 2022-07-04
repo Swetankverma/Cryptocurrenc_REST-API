@@ -15,4 +15,13 @@ Rest API’s function by sending a request, the request is communicated via HTTP
 The HTTP message usually contains a JSON file. This contains instructions for what operation we would like the service or resource to perform.
 In a similar manner, API returns a response, via an HTTP message, this response is usually contained within a JSON.
 
-In cryptocurrency a popular method to display the movements of the price of a currency
+In cryptocurrency a popular method to display the movements of the price of a currency.
+
+              /  \  /  \  /  \  /  \
+                /    \/    \/    \/    \
+███████████████/  /██/  /██/  /██/  /████████████████████████
+              /  / \   / \   / \   / \  \____
+             /  /   \_/   \_/   \_/   \    o \__,
+            / _/                       \_____/  `
+                
+                ********PYTHON************
